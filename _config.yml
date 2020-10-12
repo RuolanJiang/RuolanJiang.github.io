@@ -7,7 +7,7 @@ description: Mi diario de aprendizaje
 keyword: "Social Education ,Social sciences , University courses, Globien"
 url: "https://RuolanJiang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
+github_repo: "https://github.com/RuolanJiang/RuolanJiang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
   clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
-  repo:  globien.github.io    #仓库名称
-  owner: globien    #github用户名
-  admin: globien
+  repo:  RuolanJiang.github.io    #仓库名称
+  owner: RuolanJiang    #github用户名
+  admin: RuolanJiang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
