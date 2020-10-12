@@ -1,29 +1,29 @@
 # Site settings
-title: Globien Interlingu
-SEOTitle: Globien - Makes Communication Easier
+title: Educación social_ub Jrl
+SEOTitle: Educació Social :Interrogants i reptes de futur  profe.:Antonio Alcántara 
 header-img: img/post-bg-desk.jpg
-email: globien@outlook.com
-description: "Easy to learn, no more hard work to recite vocabulary."
-keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
-url: "https://globien.github.io"          # your host, for absolute URL
+email: laura.jiang0228@gmail.com
+description: Mi diario de aprendizaje
+keyword: "Social Education ,Social sciences , University courses, Globien"
+url: "https://RuolanJiang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/WechatIMG183.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-github_username:      globien
-# facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
-# twitter_username:   qiubaiying
+# Whatsapp_username:  +34 697989438    
+# email_username:     rjiangji13@alumnes.ub 
+github_username:       RuolanJiang
+# facebook_username:   Ruolan Jiang
+# instagram_username:  ruolan_j28
+# twitter_username:   @jiang_ruolan
 
 
 
